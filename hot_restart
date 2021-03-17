@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T04:42:47.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" version="14.4.8" etag="S1j9IOLBTnBDlatfcQH8" type="github"><diagram id="QSu2XBLqEa3q8lEF86hh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-17T04:44:44.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" etag="Wm80TtS0KJXKTxArZO3-" version="14.4.8" type="github">
+  <diagram id="QSu2XBLqEa3q8lEF86hh" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1P1cr_C3MgfQmrvq5izJ-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;For running any instant changes in the &quot;hot reload&quot; is used. &quot;hot reload&quot; is applicable for the section of code which are inste stateless or statefull widget&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="530" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
