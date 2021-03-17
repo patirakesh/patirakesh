@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T11:55:04.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" etag="B4-gB-BuawhNb7egzKbN" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T12:03:02.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" etag="HrrZLRB4AQasJiW0SemF" version="14.4.8" type="github">
   <diagram id="tarhmRegGIdUvU7TOJm3" name="Page-1">
     <mxGraphModel dx="868" dy="2682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,11 +21,8 @@
         <mxCell id="ObH6oVhNVTMysylGzbYi-8" value="StatelessWidget" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="-440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ObH6oVhNVTMysylGzbYi-9" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-930" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ObH6oVhNVTMysylGzbYi-10" value="&lt;b&gt;Requirement Analysis:&lt;/b&gt;&amp;nbsp;&lt;br&gt;1. Seafold should be of teal color&lt;br&gt;2. There is 1 row with 3 containers&lt;br&gt;&amp;nbsp; 2.a) Container 1, is stretched vertically from start to end with width very less&lt;br&gt;&amp;nbsp; 2 b) Container 2 has&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="-1040" width="220" height="20" as="geometry" />
+        <mxCell id="ObH6oVhNVTMysylGzbYi-10" value="&lt;b&gt;Requirement Analysis:&lt;/b&gt;&amp;nbsp;&lt;br&gt;1. Seafold should be of teal color&lt;br&gt;2. There is 1 row with 3 containers&lt;br&gt;&amp;nbsp; 2.a) Container 1, is stretched vertically from start to end with width = 100&lt;br&gt;&amp;nbsp; 2 a ii) Container 1 is of Red in color&lt;br&gt;&lt;br&gt;&amp;nbsp; 2 b) Container 2 has a column.&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;2 b i) This column has 2 containers&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2 b i A) Container 1 is of Yellow color and has height = width = 100&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2 b i B) Container 2 is of Green color and has height = width = 100&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; 2 b ii) There is no space between Container 1 &amp;amp; Container 2&lt;br&gt;&amp;nbsp; &amp;nbsp; 2 b iii) Both the containers are placed at the center&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;2 c) Container 3 is stretched vertically from start to end with width = 100&lt;br&gt;&amp;nbsp;1 c ii) Container 3 is of cyan in color" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-1050" width="220" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
