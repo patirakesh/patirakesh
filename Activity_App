@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T04:19:42.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" version="14.4.9" etag="nDxAv1gYfMf9x3vR4ue4" type="github"><diagram id="SWACHPiROsGq7omUcNPn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-19T04:24:32.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" etag="WIle9seLDliZxswX8Djp" version="14.4.9" type="github">
+  <diagram id="SWACHPiROsGq7omUcNPn" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z4F1Ygt7dUm-c6qY5v0w-1" value="Same like dice app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z4F1Ygt7dUm-c6qY5v0w-2" value="Bibhuti&lt;br&gt;Chinu&lt;br&gt;Narayana&lt;br&gt;Abhidutta&lt;br&gt;Sambit&lt;br&gt;Krishna&lt;br&gt;Rajiv&lt;br&gt;Jaydeb&lt;br&gt;Rakesh" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z4F1Ygt7dUm-c6qY5v0w-3" value="plays with&lt;br&gt;pays rent to&lt;br&gt;eats with&lt;br&gt;stays with&lt;br&gt;is in a discussion with" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="268.75" y="230" width="272.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z4F1Ygt7dUm-c6qY5v0w-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="z4F1Ygt7dUm-c6qY5v0w-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z4F1Ygt7dUm-c6qY5v0w-4" value="Choose among names on screen tap" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="110" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z4F1Ygt7dUm-c6qY5v0w-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="z4F1Ygt7dUm-c6qY5v0w-2" target="z4F1Ygt7dUm-c6qY5v0w-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z4F1Ygt7dUm-c6qY5v0w-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="z4F1Ygt7dUm-c6qY5v0w-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z4F1Ygt7dUm-c6qY5v0w-8" value="Activities on screen tap" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="110" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z4F1Ygt7dUm-c6qY5v0w-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="z4F1Ygt7dUm-c6qY5v0w-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="655" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z4F1Ygt7dUm-c6qY5v0w-13" value="Partner on screen tap" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="110" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z4F1Ygt7dUm-c6qY5v0w-14" value="Bibhuti&lt;br&gt;Chinu&lt;br&gt;Narayana&lt;br&gt;Abhidutta&lt;br&gt;Sambit&lt;br&gt;Krishna&lt;br&gt;Rajiv&lt;br&gt;Jaydeb&lt;br&gt;Rakesh" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
