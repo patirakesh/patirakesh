@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T16:05:32.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="fojrulEVGIMbOkGflkGw" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T16:10:14.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="K1OhZdyiBQwEDVyPmJzD" version="14.4.9" type="github">
   <diagram id="OJM_6XkL85DKrs2m2QDW" name="Page-1">
     <mxGraphModel dx="1718" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -115,10 +115,16 @@
         <mxCell id="wWqk3sTOxXSHSHRHCfdm-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wWqk3sTOxXSHSHRHCfdm-32" target="wWqk3sTOxXSHSHRHCfdm-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wWqk3sTOxXSHSHRHCfdm-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.45;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wWqk3sTOxXSHSHRHCfdm-32" target="wWqk3sTOxXSHSHRHCfdm-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wWqk3sTOxXSHSHRHCfdm-32" value="Flatbutton" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="1930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wWqk3sTOxXSHSHRHCfdm-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wWqk3sTOxXSHSHRHCfdm-33" target="wWqk3sTOxXSHSHRHCfdm-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wWqk3sTOxXSHSHRHCfdm-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wWqk3sTOxXSHSHRHCfdm-33" target="wWqk3sTOxXSHSHRHCfdm-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wWqk3sTOxXSHSHRHCfdm-33" value="Flatbutton" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -281,6 +287,18 @@
         </mxCell>
         <mxCell id="wWqk3sTOxXSHSHRHCfdm-108" value="color" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="2140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wWqk3sTOxXSHSHRHCfdm-109" value="print (&quot;True button is pressed&quot;)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="2250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wWqk3sTOxXSHSHRHCfdm-111" value="onPressed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="2220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wWqk3sTOxXSHSHRHCfdm-112" value="print (&quot;False button is pressed&quot;)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="2250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wWqk3sTOxXSHSHRHCfdm-114" value="onPressed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="2210" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
