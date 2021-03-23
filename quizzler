@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T14:56:52.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="CqpG7NBMKUVKtr7NAHKR" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T15:39:05.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="KkdiLr4EHuiNe2J2g-FE" version="14.4.9" type="github">
   <diagram id="OJM_6XkL85DKrs2m2QDW" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -77,6 +77,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="wWqk3sTOxXSHSHRHCfdm-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wWqk3sTOxXSHSHRHCfdm-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wWqk3sTOxXSHSHRHCfdm-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wWqk3sTOxXSHSHRHCfdm-23" target="wWqk3sTOxXSHSHRHCfdm-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wWqk3sTOxXSHSHRHCfdm-23" value="Column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
@@ -106,6 +114,18 @@
         </mxCell>
         <mxCell id="wWqk3sTOxXSHSHRHCfdm-42" value="&lt;b&gt;Baselining of the requirement:&lt;br&gt;&lt;/b&gt;BL 2:&lt;br&gt;Beautification of BL1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="230" width="610" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wWqk3sTOxXSHSHRHCfdm-43" value="&lt;b&gt;MainAxisAlignment.center&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;To place all the column children at center&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1530" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wWqk3sTOxXSHSHRHCfdm-45" value="mainAxisAlignment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1440" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wWqk3sTOxXSHSHRHCfdm-46" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&lt;b&gt;CrossAxisAlignment.stretch&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;To stretch all the column children from left to right of the screen" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1510" width="790" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wWqk3sTOxXSHSHRHCfdm-48" value="crossAxisAlignment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1440" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
