@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T14:15:29.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" version="14.4.9" etag="wYmfDyxaVD01Arqa0jJK" type="github"><diagram id="OJM_6XkL85DKrs2m2QDW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-23T14:28:29.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="7Y73LW0s28OryPk_FfGx" version="14.4.9" type="github">
+  <diagram id="OJM_6XkL85DKrs2m2QDW" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wWqk3sTOxXSHSHRHCfdm-1" value="&lt;b&gt;&lt;u&gt;Requirement&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Make an app which will show multiple True or False questions. User has to press &quot;True&quot; or &quot;False&quot; for the answer. The correct or Wrong answers need to be tallied as &quot;tick&quot; icon &amp;amp; &quot;cross&quot; icon and the icons need to be displayed once the user gives the answer" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="470" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wWqk3sTOxXSHSHRHCfdm-5" value="&lt;div&gt;&lt;b&gt;Requirement Analysis:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;1. ____ No of questions&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;2. Questions will be placed at the center of the screen&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;3. Background color is black. Question leteers&#39; color is white&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;4. Two Flatbuttons need to be created&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; 4a. Color of True Flatbutton is green and that of False is Red&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; 4b. Both True and False will be written white color&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="130" width="610" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wWqk3sTOxXSHSHRHCfdm-6" value="&lt;b&gt;Baselining of the requirement:&lt;br&gt;&lt;/b&gt;BL 1:&lt;br&gt;Creating Question space and two flatbuttons" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="51" y="240" width="610" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
