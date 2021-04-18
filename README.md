@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... flutter and python
 - 💞️ I’m looking to collaborate on ... flutter
-- 📫 How to reach me ...
+- 📫 How to reach me ...Email: rakeshpatijobs@gmail.com
 
 <!---
 patirakesh/patirakesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
